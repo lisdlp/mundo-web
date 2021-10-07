@@ -29,7 +29,7 @@ O _markdown_ é uma __linguagem de marcação__ utilizada para resumir determina
 
 ![Bolo de festa](https://img.elo7.com.br/product/original/1E19FD9/bolo-para-festa.jpg) 
 
- [Site para bolo de festa] (https://www.sabornamesa.com.br/bolos/bolo-de-festa-simples)
+[Site para bolo de festa](https://www.sabornamesa.com.br/bolos/bolo-de-festa-simples)
  
 
 
