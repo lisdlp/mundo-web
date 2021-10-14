@@ -1,14 +1,16 @@
-#Aula 1
-##Markdown
+# Aula 1
+## Markdown
 O _markdown_ é uma __linguagem de marcação__ utilizada para resumir determinados contextos como processo da criação e utilização de um projeto. Isso dentr da área de desenvolvimento em tecnologia da informação (TI). 
-####Alguns elementos de marcação:
-#Estou aprendendo uma coisa nova
-##Estou aprendendo uma coisa nova
-###Estou aprendendo uma coisa nova
-####Estou aprendendo uma coisa nova
-#####Estou aprendendo uma coisa nova
-######Estou aprendendo uma coisa nova
-#####Lista
+
+#### Alguns elementos de marcação:
+# Estou aprendendo uma coisa nova
+## Estou aprendendo uma coisa nova
+### Estou aprendendo uma coisa nova
+#### Estou aprendendo uma coisa nova
+##### Estou aprendendo uma coisa nova
+###### Estou aprendendo uma coisa nova
+##### Lista
+
 + Bolo de festa
     + Ingredientes 
         - Farinha de trigo
@@ -17,6 +19,7 @@ O _markdown_ é uma __linguagem de marcação__ utilizada para resumir determina
         - Leite
         - Recheio 
         - Chantily 
+        
 + Modo de preparo 
     - Misture a farinha de trigo, ovos e leite e recheio 
     - Untar a forma do bolo
