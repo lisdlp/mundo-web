@@ -20,3 +20,18 @@
 - trazer as alterações presentes no github (fazer isso toda vez que for enviar alguma coisa para o repositório do github)
 
 `git pull origin main `
+
+- preparar os arquivos alterados/modificados/deletados para serem enviados
+`git add .`
+ 
+- verificar estado dos arquivos 
+
+`git status`
+
+- commitar os arquivos (registrar a descrição das mudanças)
+` git commit -m "envio do arquivo da segunda aula`
+
+- empurrar/enviar alterações para o github (para o repositório)
+`git push origin main`
+
+
